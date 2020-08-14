@@ -705,6 +705,8 @@ table.alt tbody tr td {
     text-align: center; }
     .highlights .content .icon {
       font-size: 5rem; }
+    .highlights .content .logo {
+      height: 5rem; }
   .highlights > div > :last-child {
     margin-bottom: 0; }
   @media screen and (max-width: 980px) {
